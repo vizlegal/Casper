@@ -164,6 +164,10 @@
                 "type": "boolean",
                 "default": true,
                 "group": "post"
+            },
+            "linkedin":{
+                "type": "text",
+                "default": "https://www.linkedin.com/company/vizlegal/"
             }
         }
     },
