@@ -2279,3 +2279,7 @@ file to add some of your own styles. Well, you've come to
 the right place. Onward!
 
  */
+
+.has-cover .site-header-content {
+    min-height: 360px;
+}
